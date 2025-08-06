@@ -4,7 +4,7 @@ This repository documents our participation in Challenge #1 and #2 of the Datath
 
 ## 📌 Project Objectives
 
-- Collect Twitter posts (after Oct 7, 2023) containing antisemitic narratives.
+- Colect Twitter posts (after Oct 7, 2023) containing antisemitic narratives.
 - Annotate tweets based on the IHRA Working Definition of Antisemitism.
 - Optionally build a transformer-based model to detect antisemitism.
 
